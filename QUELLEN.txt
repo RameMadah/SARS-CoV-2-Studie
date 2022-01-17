@@ -1,0 +1,7 @@
+1 _ https://www.welt.de/politik/ausland/article222810856/EU-Von-1-78-bis-14-70-Euro-so-viel-kosten-die-Impfstoffe.html"/
+  "Von 1,78 bis 14,70 Euro – so viel kosten die Impfstoffe Von Christoph B. Schiltz Veröffentlicht am 18.12.2020"
+
+2 _ https://github.com/robert-koch-institut/COVID-19-Impfungen_in_Deutschland
+
+3 _ https://impfdashboard.de/
+"Stand: 16.12.2021 (Impfungen) und die Quelle impfdashboard.de, RKI, BMG."

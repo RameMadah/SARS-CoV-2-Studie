@@ -1,0 +1,13 @@
+name: sarscovid
+title:
+username:
+account: ramemadah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5355909
+bundleId: 5477123
+url: https://ramemadah.shinyapps.io/sarscovid/
+when: 1642427347.95076
+lastSyncTime: 1642427347.95076
+asMultiple: FALSE
+asStatic: FALSE
